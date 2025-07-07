@@ -25,12 +25,4 @@ Stock markets are complex, volatile, and influenced by numerous factors. Accurat
 - Scikit-learn – preprocessing & metrics  
 - TensorFlow / Keras – deep learning (LSTM)  
 
-## 📊 Dataset
-
-- Source: Yahoo Finance (via `yfinance`), Alpha Vantage, or CSV file
-- Features: `Date`, `Open`, `High`, `Low`, `Close`, `Volume`
-
-> If you're using a public dataset, you can link it here.
-
-## 📦 Project Structure
 
