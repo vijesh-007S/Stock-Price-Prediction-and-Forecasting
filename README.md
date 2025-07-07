@@ -24,7 +24,6 @@ Stock markets are complex, volatile, and influenced by numerous factors. Accurat
 - Matplotlib, Seaborn – data visualization  
 - Scikit-learn – preprocessing & metrics  
 - TensorFlow / Keras – deep learning (LSTM)  
-- yfinance / Alpha Vantage – stock data APIs (if used)
 
 ## 📊 Dataset
 
